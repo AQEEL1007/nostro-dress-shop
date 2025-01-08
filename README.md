@@ -15,10 +15,10 @@ Nostro Dress Shop is a trendy online clothing store offering the latest in fashi
 - JavaScript  
 
 ## Live Demo  
-[View Live Site](https://username.github.io/nostro-dress-shop/)  
+[View Live Site](https://aqeel1007.github.io/nostro-dress-shop/)  
 
 ## Screenshots  
-![Thumbnail](https://username.github.io/nostro-dress-shop/images/thumbnail.jpg)  
+![Thumbnail](https://aqeel1007.github.io/nostro-dress-shop//images/thumbnail.jpeg)  
 
 ## Contact  
-For inquiries, reach out to [Your Email Address].  
+For inquiries, reach out to aqeelmohamedazwer@gmail.com.  
